@@ -29,7 +29,7 @@ Quando estiver pronto, envie suas contribuições como pull requests. Nossa equi
 
 ## Licença
 
-Este projeto é licenciado sob a Licença MIT - veja o arquivo [MIT](LICENSE.TXT) para mais detalhes.
+Este projeto é licenciado sob a Licença MIT - veja o arquivo [MIT](license) para mais detalhes.
 
 ## Contato
 
